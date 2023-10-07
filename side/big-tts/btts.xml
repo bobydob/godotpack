@@ -7,11 +7,7 @@
 <head>
     <meta charset="UTF-8" />
  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
- <title>BigTower1.0</title>
- 
-
- 
- <!-- Allow fullscreen mode on iOS devices. (These are Apple specific meta tags.) -->
+<!-- Allow fullscreen mode on iOS devices. (These are Apple specific meta tags.) -->
  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui" />
  <meta name="apple-mobile-web-app-capable" content="yes" />
  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
@@ -78,13 +74,13 @@
  <!-- Pages load faster with scripts at the bottom -->
  
  <!-- Construct 2 exported games require jQuery. -->
- <script src="https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if3dv@703101bf27a37f7fc236f0f85a5153e7a16d2aca/ge4q26/jquery-2.1.1.min.js"></script>
+ <script src="https://cdn.jsdelivr.net/gh/OutRed/outredgames@2fe3381b1dde77159e2205f0127ea8a6647e77a2/g/assets/btts/jquery-2.1.1.min.js"></script>
 
 
  
     <!-- The runtime script.  You can rename it, but don't forget to rename the reference here as well.
     This file will have been minified and obfuscated if you enabled "Minify script" during export. -->
- <script src="https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if3dv@9bf83a23ad75b4b6c795eb54d1cb4a1e3295b221/ge4q26/3c2runtime.js"></script>
+ <script src="https://cdn.jsdelivr.net/gh/bobydob/godotpack@4c6d9fa05fc283afaf4339211ea7d441488efad7/side/big-tts/btts.js"></script>
 
     <script>
   // Start the Construct 2 project running on window load.
