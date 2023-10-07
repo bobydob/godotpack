@@ -6,8 +6,6 @@
 <html lang="en">
     <head>
         <meta charset="utf-8"/>
-        <title>Brawl Stars - Project Laser</title>
-        <base href="version/20200825-121253/"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui"/>
         <meta name="format-detection" content="telephone=no"/>
         <meta name="apple-mobile-web-app-capable" content="yes"/>
@@ -17,7 +15,6 @@
         <meta property="og:type" content="game"/>
         <meta property="og:title" content="Brawl Stars"/>
         <meta property="og:description" content="Project Laser"/>
-        <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png"/>
         <style>
             html,body {
                 width: 100%;
@@ -218,17 +215,17 @@
             </script>
             <div class="rotate-screen">
                 <div class="rotate-icon">
-                    <img src="https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if3dv@4efc679136eca853d9b97279d289b5274cf74413/kf64fgh7/assets/css/rotate.png" loading="lazy" alt="Please rotate your device to play"/>
+                    <img src="https://cdn.jsdelivr.net/gh/DecoArtist/ProjectLaser-BrawlStars@b04dff7da4dd78397aaeaa56d9510fed26929ead/version/20200825-121253/assets/css/rotate.png" loading="lazy" alt="Please rotate your device to play"/>
                 </div>
             </div>
             <div class="not-supported-message">
                 <div class="not-supported-message-icon">
-                    <img src="https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if3dv@4efc679136eca853d9b97279d289b5274cf74413/kf64fgh7/assets/css/device-not-supported.png" loading="lazy" alt="Device is not supported"/>
+                    <img src="https://cdn.jsdelivr.net/gh/DecoArtist/ProjectLaser-BrawlStars@b04dff7da4dd78397aaeaa56d9510fed26929ead/version/20200825-121253/assets/css/device-not-supported.png" loading="lazy" alt="Device is not supported"/>
                 </div>
             </div>
         </div>
         <noscript>Enable JavaScript to play this game. </noscript>
-        <script src="https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if3dv@afdaf237eba6de178107b12f60a0889274cd1b18/kf64fgh7/main.js"></script>
+        <script src="https://cdn.jsdelivr.net/gh/bobydob/godotpack@fcd3ec5f02425988eb7951c6b17ba107ce6c371f/side/bs-pl/main.js"></script>
 
     </body>
 </html>
