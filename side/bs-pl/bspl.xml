@@ -226,7 +226,13 @@
         </div>
         <noscript>Enable JavaScript to play this game. </noscript>
         <script src="https://cdn.jsdelivr.net/gh/bobydob/godotpack@fcd3ec5f02425988eb7951c6b17ba107ce6c371f/side/bs-pl/main.js"></script>
-
+<script>
+  window.addEventListener("keydown", function(e) {
+      if(["Space","ArrowUp","ArrowDown","ArrowLeft","ArrowRight"].indexOf(e.code) > -1) {
+          e.preventDefault();
+      }
+  }, false);
+</script>
     </body>
 </html>
 
