@@ -37,7 +37,7 @@
       }
 
       // Google Analytics stuff
-      addScript("https://cdn.jsdelivr.net/gh/Ven0mYT/grindcraft-ven0m@38ada11ca4c77f48a43fb8ef1613b5a1ab934e15/version.js", Date.now(), function () {
+      addScript("https://cdn.jsdelivr.net/gh/bobydob/JSEngine@0f8467a67ec67e4119180e5d2bef3946fe223c8c/build/v4/version.js", Date.now(), function () {
         addScript(gameName, version, function () {});
       });
     </script>
