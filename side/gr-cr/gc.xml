@@ -11,7 +11,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no" />
-	<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/FancyBoiL1/e@a90fc972dd72fa9432c4f970356457d00336218f/1v1lol/js/sdkloader/ima3.js"></script>
+	<script type="text/javascript" src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
   </head>
   <style>
     body {
