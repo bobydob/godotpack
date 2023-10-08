@@ -60,7 +60,7 @@
             libs = [],
             version = '5';
 
-        require(["https://cdn.jsdelivr.net/gh/bobydob/godotpack@86eda37fa4cbfbf26c8657f56eb9a8cacca6686c/side/faw2/faw.min.js?v=" + version]);
+        require(["https://cdn.jsdelivr.net/gh/bobydob/godotpack@89cf099ed73bdfe18b21bc608acdc439784382f1/side/faw2/faw.min.js?v=" + version]);
     </script>
 </body>
 
