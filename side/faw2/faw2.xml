@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-<ModulePrefs title="Fireboy & Watergirl 2" />
+<ModulePrefs title="Fireboy and Watergirl 2" />
 <Content type="html"><![CDATA[
 
 <!DOCTYPE html>
@@ -17,7 +17,7 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
 
 
-    <meta name="apple-mobile-web-app-title" content="Fireboy & Watergirl 2 Light Temple">
+    <meta name="apple-mobile-web-app-title" content="Fireboy and Watergirl 2 Light Temple">
     <title>Fireboy & Watergirl 2 Light Temple</title>
 
 
