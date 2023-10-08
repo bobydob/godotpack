@@ -54,7 +54,7 @@
 
 
 
-            require(["https://cdn.jsdelivr.net/gh/bobydob/godotpack@5684803f4a1c889d58fe229becee7a53afa76551/side/faw3/faw3.min.js?v=" + version]);
+            require(["https://cdn.jsdelivr.net/gh/bobydob/godotpack@eee6707129e6b8de0315fa9a296cec67aa16f6d8/side/faw3/faw3.min.js?v=" + version]);
 
 
         });
