@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+<ModulePrefs title="Zombocalypse" />
+<Content type="html"><![CDATA[
+
+<object xmlns="http://www.w3.org/1999/xhtml" 
+data="https://cdn.jsdelivr.net/gh/t2wwtlty/1ld94yfnb36ag4bvc83is@7f6f3b326384f3c6ae3b0bff69c1c2e9fa448192/Zombocalypse/zombocalypse.swf" 
+height="100%" type="application/x-shockwave-flash" width="100%"><param name="movie" value="" />
+</object><script src="https://cdn.jsdelivr.net/gh/t2wwtlty/rf82ksp6jfp3g@a3a5b65e6416bb80a26a4c54e02dafea91c329c0/ruffle.js"></script>
+<script src="https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/addc4348-16c2-4645-9dff-f99b962e39ef%2Fscr.js"></script>
+
+]]></Content>
+</Module>
