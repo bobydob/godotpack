@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+<ModulePrefs title="Pull Him Out" />
+<Content type="html"><![CDATA[
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sfmemz/Pull-Him-Out@000016ec34ecf04085b4dd039238d87ef9b5705e/style.css">
+</head>
+<body>
+<div id="fb-root"></div>
+<script src="https://cdn.jsdelivr.net/gh/sfmemz/Pull-Him-Out@000016ec34ecf04085b4dd039238d87ef9b5705e/box2d.wasm.js"></script>
+<noscript>
+		<div id="notSupportedWrap">
+			<h2 id="notSupportedTitle">This content requires JavaScript</h2>
+			<p class="notSupportedMessage">JavaScript appears to be disabled. Please enable it to view this content.</p>
+		</div>
+	</noscript>
+<script src="https://cdn.jsdelivr.net/gh/sfmemz/Pull-Him-Out@000016ec34ecf04085b4dd039238d87ef9b5705e/scripts/supportcheck.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/sfmemz/Pull-Him-Out@000016ec34ecf04085b4dd039238d87ef9b5705e/scripts/offlineclient.js" type="module"></script>
+<script src="https://cdn.jsdelivr.net/gh/bobydob/godotpack@a407a85e5abcc92adecb89742847c13dce152bd3/side/pho/main.js" type="module"></script>
+<script src="https://cdn.jsdelivr.net/gh/sfmemz/Pull-Him-Out@000016ec34ecf04085b4dd039238d87ef9b5705e/scripts/register-sw.js" type="module"></script>
+</body>
+</html>
+
+]]></Content>
+</Module>
