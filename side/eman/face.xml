@@ -26,7 +26,7 @@
                 <div>Audio by <a href="http://dolphinclub.website/audio" target="_blank">Dolphin Club Audio</a></div>
             </div></script>
   <div id="placeholder"></div>
-  <script src="https://cdn.jsdelivr.net/gh/bobydob/godotpack@5f7e18f39f847f9824f3126e3fa095273c24f653/side/eman/face.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/bobydob/godotpack@bd60a8e8be799b9efc700a4ec8352857bfe9a011/side/eman/face.js"></script>
   </body>
 </html>
 
